@@ -11,6 +11,8 @@
   "dependencies": {
     "@langchain/community": "^0.3.47",
     "@langchain/core": "^0.3.61",
+    "clsx": "^2.1.1",
+    "compressorjs": "^1.2.1",
     "langchain": "^0.3.29",
     "next": "15.3.4",
     "react": "^19.0.0",
